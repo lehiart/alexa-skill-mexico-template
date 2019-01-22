@@ -1,2 +1,2 @@
-lambda/node_modules
-.ask
+lambda/custom/node_modules
+.vscode
