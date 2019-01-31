@@ -3,18 +3,18 @@
     "publishingInformation": {
       "locales": {
         "es-MX": {
-          "summary": "Sample Short Description",
+          "summary": "Descripcion corta",
           "examplePhrases": [
-            "Alexa open hello world",
-            "hello",
-            "help"
+            "Alexa abre hola mundo",
+            "hola",
+            "ayuda"
           ],
-          "name": "hello world",
-          "description": "Sample Full Description"
+          "name": "hola mundo",
+          "description": "Description completa"
         }
       },
       "isAvailableWorldwide": true,
-      "testingInstructions": "Sample Testing Instructions.",
+      "testingInstructions": "Instrucciones para test.",
       "category": "KNOWLEDGE_AND_TRIVIA",
       "distributionCountries": []
     },
